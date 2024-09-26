@@ -1,2 +1,2 @@
-# IDS_MPOX_CRF
+# MPOX_CRF
 Mpox Surveillance - Case Report Form
