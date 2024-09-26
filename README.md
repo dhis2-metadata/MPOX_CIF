@@ -1,2 +1,2 @@
-# IDS_MPOX_CIF
+# MPOX_CIF
 Mpox Surveillance - Case Investigation Form
