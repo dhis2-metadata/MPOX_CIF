@@ -1,1 +1,1 @@
-# Release Note { #ids-mpox-cif-release-note }
+# Release Note { #mpox-cif-release-note }
