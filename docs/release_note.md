@@ -1,1 +1,1 @@
-# Release Note { #ids-mpox-crf-release-note }
+# Release Note { #ids-mpox-cif-release-note }
