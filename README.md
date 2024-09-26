@@ -1,2 +1,2 @@
-# IDS_MPOX_CRF
-Mpox Surveillance - Case Report Form
+# IDS_MPOX_CIF
+Mpox Surveillance - Case Investigation Form
