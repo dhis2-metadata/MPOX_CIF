@@ -1,1 +1,1 @@
-# MPOX Case Surveillance - Case Report Form
+# MPOX Case Surveillance - Case Investigation Form
