@@ -1,5 +1,5 @@
 # Release Note { #mpox-cif-release-note }
 
-## 0.0.1
+## 1.0.0
 
-Version 0.0.1
+Version 1.0.0
